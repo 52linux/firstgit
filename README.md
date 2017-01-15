@@ -1,2 +1,2 @@
 # firstgit
-[www.zjpro.com]
+www.zjpro.com
