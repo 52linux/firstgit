@@ -1,4 +1,4 @@
-# firstgit
+# 开宗明义
 ever domains
 www.52linux.com
 www.phpsir.com
