@@ -4,6 +4,6 @@ www.52linux.com
 www.phpsir.com
 
 
-now domain is 
+current domain is 
 www.zjpro.com
 
