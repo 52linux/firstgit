@@ -1,4 +1,4 @@
 # 开宗明义
-contact me phpsir@qq.com
+contact me 
 www.zjpro.com
 
